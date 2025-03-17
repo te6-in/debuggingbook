@@ -122,3 +122,5 @@ notebooks/SimpleGrammarMiner.ipynb
 # VS Code settings
 .vscode/
 *.code-workspace
+
+.venv
